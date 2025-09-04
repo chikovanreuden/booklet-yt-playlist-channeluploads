@@ -1,3 +1,7 @@
+Get the Playlist of all Uploads of the Channel of the Video currently running in the Tab.
+
+Save the Code as a Bookmark. Its a so called "Bookmarklet".
+
 Playlist IDs:
 * UU - all public uploads (videos + shorts + live streams)
 * UULF - all public videos
