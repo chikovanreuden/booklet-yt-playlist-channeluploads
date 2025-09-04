@@ -1,1 +1,1 @@
-javascript:window.location = window.location.href + "&list=" + ytInitialPlayerResponse.videoDetails.channelId.replace("UC", "UU")
+javascript:window.location = window.location.href + "&list=UULF" + ytInitialPlayerResponse.videoDetails.channelId.slice(2)
